@@ -4,7 +4,7 @@
         <element name="u_group_name" label="Group name" type="string" />
 		<element name="u_entity" label="Entity" type="string" />
 		<element name="u_erp_source" label="ERP source" type="string" hint="ERP Source system"/>
-        <element name="u_short_description" label="Short description" type="string" max_length="160" hint=""/>
+        <element name="u_short_description" label="Short descriptions" type="string" max_length="160" hint=""/>
         <element name="u_type" label="Type" type="string" max_length="40" />
         <element name="u_key_group" label="Key group" type="string" hint="" />
         <element name="u_zero_balance_group" label="Zero balance group" type="string" hint="" />
